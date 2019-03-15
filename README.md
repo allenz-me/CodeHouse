@@ -1,2 +1,2 @@
 # CodeHouse
-A code warehouse for deep learning code I collected.
+A code warehouse for deep learning codes I collected.
